@@ -2,4 +2,4 @@
 
 Landing del recetario de tratamientos domiciliarios Dr. Grandel para el equipo médico.
 
-Web: https://yia-simo.github.io/recetario-mp/
+Web: https://recetario.mariapadilla.es
